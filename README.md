@@ -1,5 +1,3 @@
-# Leandra Bräuninger 
-
 ## Bio
 
 Leandra Bräuninger is an incoming doctoral student researching "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" at the University College London supervised by [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) and [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/).
