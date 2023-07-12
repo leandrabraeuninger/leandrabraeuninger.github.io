@@ -13,14 +13,13 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 I am open to more teaching and speaking duties at the moment. Do send me an email if you would like me to give lectures or talks.
 
 ## Projects
-# DSxHE (Co-Organiser, Theme Co-Lead)
-[Data Science for Health Equity (“DSxHE”)](https://www.datascienceforhealthequity.com/) is a global community that brings together experts and enthusiasts working at the intersection of data science and health inequities to ensure that the latest research and innovations improve health equity. Leandra is a co-organiser of the community working to define its Strategy & Impact as well as a co-lead of the Statistical Methods for Health Equity Theme.
-
-
-# Uniphy (Founder)
+### Uniphy (Founder)
 Uniphy is a network of ambitious women+ who support each other's growth through cross-sectional knowledge sharing and boutique consulting.
 
-# TrueYouOmics (Scientific & Ethics Advisor)
+### DSxHE (Co-Organiser, Theme Co-Lead)
+[Data Science for Health Equity (“DSxHE”)](https://www.datascienceforhealthequity.com/) is a global community that brings together experts and enthusiasts working at the intersection of data science and health inequities to ensure that the latest research and innovations improve health equity. Leandra is a co-organiser of the community working to define its Strategy & Impact as well as a co-lead of the Statistical Methods for Health Equity Theme.
+
+### TrueYouOmics (Scientific & Ethics Advisor)
 Leandra advises the HealthTech Startup TrueYouOmics on scientific and ethical matters.
 
 ## Contact
