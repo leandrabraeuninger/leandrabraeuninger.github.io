@@ -11,12 +11,14 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 
 <br>
+
 ## Teaching
 [Zertifikatskurs Digitale Inklusion (Universität Wien)](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/)
 
 I am open to more teaching and speaking duties at the moment. Do send me an email if you would like me to give lectures or talks.
 
 <br>
+
 ## Projects
 ### Uniphy (Founder)
 Uniphy is a network of ambitious women+ who support each other's growth through cross-sectional knowledge sharing and boutique consulting.
@@ -32,6 +34,7 @@ Leandra advises the HealthTech Startup TrueYouOmics on scientific and ethical ma
 </center>
 
 <br>
+
 ## Contact
 Please don't hesitate to reach out to me if our research interests overlap, if your startup is looking for a research collaborator or scientific advisor or if you are looking for someone to teach or present on the topics of Health x AI x Ethics.
 
