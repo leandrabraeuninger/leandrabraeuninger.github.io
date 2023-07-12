@@ -10,6 +10,8 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 ## Teaching
 [Zertifikatskurs Digitale Inklusion (Universität Wien)](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/)
 
+I am open to more teaching and speaking duties at the moment. Do send me an email if you would like me to give lectures or talks.
+
 ## Projects
 # DSxHE (Co-Organiser, Theme Co-Lead)
 [Data Science for Health Equity (“DSxHE”)](https://www.datascienceforhealthequity.com/) is a global community that brings together experts and enthusiasts working at the intersection of data science and health inequities to ensure that the latest research and innovations improve health equity. Leandra is a co-organiser of the community working to define its Strategy & Impact as well as a co-lead of the Statistical Methods for Health Equity Theme.
@@ -22,7 +24,7 @@ Uniphy is a network of ambitious women+ who support each other's growth through 
 Leandra advises the HealthTech Startup TrueYouOmics on scientific and ethical matters.
 
 ## Contact
-Please don't hesitate to reach out to me if our research interests overlap, if your startup is looking for a research collaborator or scientific advisor or are simply interested in my work.
+Please don't hesitate to reach out to me if our research interests overlap, if your startup is looking for a research collaborator or scientific advisor or if you are looking for someone to teach or present on the topics of Health x AI x Ethics.
 
 Email: leandra.braeuninger@gmail.com
 Linkedin: https://www.linkedin.com/in/leandra-braeuninger/
