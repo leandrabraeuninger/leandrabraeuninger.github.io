@@ -1,7 +1,7 @@
 [Deutsche Version](https://leandrabraeuninger.github.io/German)
 <br>
 
-<img src="portraitMINI.jpg" width="100">
+<center><img src="portraitMINI.jpg" width="100"></center>
 
 Leandra Bräuninger is a doctoral student researching "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" at the University College London supervised by [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) and [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/).
 
