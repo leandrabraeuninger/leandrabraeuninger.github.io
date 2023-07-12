@@ -1,4 +1,5 @@
 [English version](https://leandrabraeuninger.github.io)
+
 <center><img src="portraitMINI.jpg" width="150"></center>
 
 Leandra Bräuninger doktoriert zum Thema "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" am University College London unter der Leitung von [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) und [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/).
@@ -8,6 +9,7 @@ Zuvor hatte Leandra Forschungs- und/oder Lehraufträge in den Bereichen statisti
 Leandras akademische Abschlüsse in Mathematical Modelling of Global Health (MSc University of Oxford), Data Science und International Relations (BA University of St. Gallen) sowie Arbeitserfahrung in HealthTech-Startups ([Haplo Care](https://www.haplocare.com/), [MiData](https://www.midata.coop/en/home/)) haben zu einem starken Interesse an der Schnittstelle von Gesundheit - Gerechtigkeit - Technologie geführt. Genauer gesagt, an AI-Methoden, die die Medizin und Gesundheitsversorgung für die gesamte Gesellschaft (und nicht nur für einige wenige Privilegierte) verbessern. Zu diesem Zweck liegt der Schwerpunkt der Doktorarbeit auf der Entwicklung neuer, gerechter AI-Systeme mit umfassender interdisziplinärer Kontextualisierung.
 
 <br>
+
 ## Lehre
 [Zertifikatskurs Digitale Inklusion (Universität Wien)](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/)
 
