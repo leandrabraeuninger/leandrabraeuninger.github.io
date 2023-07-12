@@ -41,4 +41,4 @@ Email: leandra.braeuninger@gmail.com
 
 Linkedin: linkedin.com/in/leandra-braeuninger/
 
-Twitter: @_LeandraBr]
+Twitter: @_LeandraBr
