@@ -1,6 +1,3 @@
-
-# Leandra Bräuninger
-
 Leandra Bräuninger is a student researching "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" at the University College London supervised by [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) and [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/).
 
 Previously, Leandra held research and/or teaching positions in the areas of statistical fairness in genomics, mathematical malaria prediction, and basic biology at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK), the [Mathematical Biology Group at the University of Melbourne](https://mathematical-biology.science.unimelb.edu.au/) (Australia), and the [Centre for Active Learning](https://cal.biol.ethz.ch/) in the Department of Biology at ETH Zurich (Switzerland).
@@ -26,5 +23,7 @@ Leandra advises the HealthTech Startup TrueYouOmics on scientific and ethical ma
 Please don't hesitate to reach out to me if our research interests overlap, if your startup is looking for a research collaborator or scientific advisor or if you are looking for someone to teach or present on the topics of Health x AI x Ethics.
 
 Email: leandra.braeuninger@gmail.com
-Linkedin: https://www.linkedin.com/in/leandra-braeuninger/
+
+Linkedin: linkedin.com/in/leandra-braeuninger/
+
 Twitter: @_LeandraBr
