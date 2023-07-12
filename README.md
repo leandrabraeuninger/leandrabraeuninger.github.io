@@ -39,6 +39,6 @@ Please don't hesitate to reach out to me if our research interests overlap, if y
 
 Email: leandra.braeuninger@gmail.com
 
-Linkedin: linkedin.com/in/leandra-braeuninger/
+Linkedin: [linkedin.com/in/leandra-braeuninger/](https://www.linkedin.com/in/leandra-braeuninger/)
 
-Twitter: @_LeandraBr
+Twitter: [@_LeandraBr](https://twitter.com/_LeandraBr)
