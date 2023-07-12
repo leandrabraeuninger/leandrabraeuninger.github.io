@@ -1,5 +1,5 @@
 [English version](https://leandrabraeuninger.github.io)
-![portrait](/portraitMINI.jpg)
+<center><img src="portraitMINI.jpg" width="150"></center>
 
 Leandra Bräuninger doktoriert zum Thema "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" am University College London unter der Leitung von [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) und [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/).
 
