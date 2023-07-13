@@ -11,7 +11,7 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 <br>
 
 ## Teaching
-[Zertifikatskurs Digitale Inklusion (Universität Wien)](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/)
+[Zertifikatskurs Digitale Inklusion](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/) (Universität Wien)
 
 I am open to more teaching and speaking duties at the moment. Do send me an email if you would like me to give lectures or talks.
 
