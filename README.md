@@ -1,6 +1,5 @@
 [Deutsche Version](https://leandrabraeuninger.github.io/German)
 
-<br>
 <div style="text-align: right"> <img src="portraitMINI.jpg" width="150"> </div>
 
 Leandra Bräuninger is a doctoral student researching "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" at the University College London supervised by [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) and [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/).
@@ -11,10 +10,13 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 <br>
 
+<div style="text-align: right"> 
+
 ## Teaching
 [Zertifikatskurs Digitale Inklusion](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/) (Universität Wien)
 
 I am open to more teaching and speaking duties at the moment. Do send me an email if you would like me to give lectures or talks.
+</div>
 
 <br>
 
@@ -33,6 +35,8 @@ Leandra advises the HealthTech Startup TrueYouOmics on scientific and ethical ma
 
 <br>
 
+<div style="text-align: right"> 
+
 ## Contact
 Please don't hesitate to reach out to me if our research interests overlap, if your startup is looking for a research collaborator or scientific advisor or if you are looking for someone to teach or present on the topics of Health x AI x Ethics.
 
@@ -41,3 +45,5 @@ Email: leandra.braeuninger@gmail.com
 Linkedin: [linkedin.com/in/leandra-braeuninger/](https://www.linkedin.com/in/leandra-braeuninger/)
 
 Twitter: [@_LeandraBr](https://twitter.com/_LeandraBr)
+
+</div>
