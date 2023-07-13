@@ -9,7 +9,8 @@ Previously, Leandra held research and/or teaching positions in the areas of stat
 Leandra's academic degrees in Mathematical Modelling of Global Health (MSc University of Oxford), Data Science and International Relations (BA University of St. Gallen), and work experience in HealthTech startups ([Haplo Care](https://www.haplocare.com/), [MiData](https://www.midata.coop/en/home/)) have led to a keen interest in the intersection of health - equity - technology. More specifically, in AI methods that improve medicine and healthcare for the whole of society (and not just a privileged few). To this end, the focus of the PhD is on the development of new, equitable AI systems with extensive interdisciplinary contextualisation.
 
 <br>
-<h2 style="text-align: right">Teaching</h2>
+
+## Teaching
 ---
 [Zertifikatskurs Digitale Inklusion](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/) (Universität Wien)
 
@@ -17,7 +18,7 @@ I am open to more teaching and speaking duties at the moment. Do send me an emai
 
 <br>
 
-<h2 style="text-align: right">Projects</h2>
+## Projects
 ---
 ### Uniphy (Founder)
 Uniphy is a network of ambitious women+ who support each other's growth through cross-sectional knowledge sharing and boutique consulting.
@@ -33,9 +34,9 @@ Leandra advises the HealthTech Startup TrueYouOmics on scientific and ethical ma
 
 <br>
 
-<h2 style="text-align: right">Contact</h2>
+## Contact
 ---
-Please don't hesitate to reach out to me if our research interests overlap, if your startup is looking for a research collaborator or scientific advisor or if you are looking for someone to teach or present on the topics of Health x AI x Ethics.
+Please don't hesitate to reach out to me if our research interests overlap, if your startup is looking for a research collaborator or scientific advisor or if you are looking for someone to teach or present on the topics of equitable HealthTech.
 
 Email: leandra.braeuninger@gmail.com
 
