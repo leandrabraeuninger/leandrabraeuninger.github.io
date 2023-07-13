@@ -36,6 +36,6 @@ Bitte zögern Sie nicht, sich mit mir in Verbindung zu setzen, wenn sich unsere 
 
 Email: leandra.braeuninger@gmail.com
 
-Linkedin: linkedin.com/in/leandra-braeuninger/
+Linkedin: [linkedin.com/in/leandra-braeuninger/](https://www.linkedin.com/in/leandra-braeuninger/)
 
-Twitter: @_LeandraBr
+Twitter: [@_LeandraBr](https://twitter.com/_LeandraBr)
