@@ -1,7 +1,7 @@
 [English version](https://leandrabraeuninger.github.io)
 
-<center><img src="portraitMINI.jpg" width="150"></center>
-
+## Bio
+---
 Leandra Bräuninger doktoriert zum Thema "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" am University College London unter der Leitung von [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) und [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/).
 
 Zuvor hatte Leandra Forschungs- und/oder Lehraufträge in den Bereichen statistische Fairness in der Genomik, mathematische Malariavorhersage und Grundlagenbiologie am [Alan Turing Institute](https://www.turing.ac.uk/) (London, Vereinigtes Königreich), der [Mathematical Biology Group at the University of Melbourne](https://mathematical-biology.science.unimelb.edu.au/) (Australien) und dem [Centre for Active Learning](https://cal.biol.ethz.ch/) im Biologiedepartement der ETH Zürich (Schweiz).
@@ -11,6 +11,7 @@ Leandras akademische Abschlüsse in Mathematical Modelling of Global Health (MSc
 <br>
 
 ## Lehre
+---
 [Zertifikatskurs Digitale Inklusion (Universität Wien)](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/)
 
 Momentan habe ich Kapazität für weitere Lehr- und Vortragstätigkeiten. Zögern Sie nicht, mir eine E-Mail zu schicken, wenn Sie Vorlesungsanfragen haben.
@@ -18,6 +19,7 @@ Momentan habe ich Kapazität für weitere Lehr- und Vortragstätigkeiten. Zöger
 <br>
 
 ## Projekte
+---
 ### Uniphy (Gründerin)
 Uniphy ist ein globales Netzwerk talentierter Frauen+, die sich gegenseitig in ihrem persönlichen und professionellen Wachstum unterstützen, indem sie ihr Wissen und ihre Fähigkeiten interdisziplinär miteinander teilen Consulting Services anbietet.
 
@@ -32,6 +34,7 @@ Leandra berät das HealthTech-Startup TrueYouOmics in wissenschaftlichen und eth
 <br>
 
 ## Kontakt
+---
 Bitte zögern Sie nicht, sich mit mir in Verbindung zu setzen, wenn sich unsere Forschungsinteressen überschneiden, wenn Ihr Startup auf der Suche nach einer Forschungskollaboratorin oder wissenschaftlichen Beraterin ist oder wenn Sie jemanden suchen, der zu den Themen Gesundheit x AI x Ethik lehrt oder Vorträge hält.
 
 Email: leandra.braeuninger@gmail.com
