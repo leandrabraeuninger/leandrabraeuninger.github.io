@@ -12,6 +12,7 @@ Leandras akademische Abschlüsse in Mathematical Modelling of Global Health (MSc
 
 ## Lehre
 ---
+Vorlesung über "LSTM and RCNN" für den Masterstudiengang "MSc Applied AI for Medical Imaging" (UCL)
 [Zertifikatskurs Digitale Inklusion (Universität Wien)](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/)
 
 Momentan habe ich Kapazität für weitere Lehr- und Vortragstätigkeiten. Zögern Sie nicht, mir eine E-Mail zu schicken, wenn Sie Vorlesungsanfragen haben.
