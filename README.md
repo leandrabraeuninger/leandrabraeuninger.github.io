@@ -12,6 +12,9 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 ## Teaching
 ---
+Lecture on LSTM and RCNN for the MSc Applied AI for Medical Imaging (UCL)
+<br>
+
 [Zertifikatskurs Digitale Inklusion](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/) (Universität Wien)
 
 I am open to more teaching and speaking duties at the moment. Do send me an email if you would like me to give lectures or talks.
