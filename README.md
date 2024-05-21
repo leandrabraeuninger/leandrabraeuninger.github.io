@@ -11,6 +11,7 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 <br>
 
 ## Talks
+---
 Panel Discussion on the ethical implications of AI use in global health at the <b>Geneva Health Forum<b>
 <br>
 Fairness in AI at the <b>Turing-Roche Knowledge Share Event<b> ([find the recording here](https://youtu.be/Tuz7IGqDAIs?si=gfOEuOz3XVbckbsw))
@@ -18,6 +19,7 @@ Fairness in AI at the <b>Turing-Roche Knowledge Share Event<b> ([find the record
 <br>
 
 ## Conferences
+---
 presented work at Genomics England Research Summit 2023
 <br>
 conference scholarship for FAccT'22
