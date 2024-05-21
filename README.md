@@ -20,7 +20,7 @@ Fairness in AI at the <b>Turing-Roche Knowledge Share Event<b> ([find the record
 ## Conferences
 presented work at Genomics England Research Summit 2023
 <br>
-scholarship to attend FAccT'22
+conference scholarship for FAccT'22
 
 <br>
 
