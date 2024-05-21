@@ -10,6 +10,10 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 <br>
 
+## Talks
+Panel Discussion on
+Fairness in AI at the Turing-Roche Knowledge Share Event [find the recording here](https://youtu.be/Tuz7IGqDAIs?si=gfOEuOz3XVbckbsw)
+
 ## Teaching
 ---
 Lecture on LSTM and RCNN for the MSc Applied AI for Medical Imaging (UCL)
