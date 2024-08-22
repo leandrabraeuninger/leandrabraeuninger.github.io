@@ -2,7 +2,7 @@
 
 ## Bio
 ---
-Leandra Bräuninger is a doctoral student researching "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" at the University College London supervised by [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) and [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/). Research interests include interdisciplinary approaches to algorithmic fairness, actionable equity, conformal prediction, counterfactual frameworks and causal inference to name a few.
+Leandra Bräuninger (they/them; she/her) is a doctoral student researching "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" at the University College London supervised by [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) and [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/). Research interests include interdisciplinary approaches to algorithmic fairness, actionable equity, conformal prediction, counterfactual frameworks and causal inference to name a few.
 
 Previously, Leandra held research and/or teaching positions in the areas of statistical fairness in genomics, mathematical malaria prediction, and fundamental biology at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK), the [Mathematical Biology Group at the University of Melbourne](https://mathematical-biology.science.unimelb.edu.au/) (Australia), and the [Centre for Active Learning](https://cal.biol.ethz.ch/) in the Department of Biology at ETH Zurich (Switzerland).
 
