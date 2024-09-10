@@ -10,7 +10,7 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 <br>
 
-## Contribution and Talks
+## Conference Contribution and Talks
 ---
 <ul>
   <li>presented work at <b>2024 Greek Stochastics</b> (Folegandros, Greece)</li>
