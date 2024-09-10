@@ -35,7 +35,7 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 ## Scholarships, Grants and Awards
 ---
-2024 ELISE RobustML Workshop grant (Helsinki, Finland)
+2024 ELISE mobility grant (Helsinki, Finland)
 <br>
 UKRI EPSRC DTP studentship
 <br>
