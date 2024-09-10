@@ -27,7 +27,7 @@ presented work at <b>Genomics England Research Summit 2023</b> (London, UK)
 ---
 Lead of 2024 Data Science for Health Equity Symposium
 <br>
-Lead of Data Science for Health Equity Session in the <b>International Day of Women in Statistics and Data Science</>
+Lead of Data Science for Health Equity Session in the <b>International Day of Women in Statistics and Data Science</b>
 <br>
 Co-Lead of DSxHE Statistical Methods for Health Equity organising <b>Webinar</b> and <b>Researcher Meetups</b>
 <br>
