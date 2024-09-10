@@ -15,8 +15,8 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 <ul>
   <li>presented work at <b>2024 Greek Stochastics</b> (Folegandros, Greece)</li>
   <li>presented work at the <b>ELISE RobustML Workshop 2024</b> (Helsinki, Finland)</li>
-  <li>Panel Discussion on the ethical implications of AI use in global health at the <b>2024 Geneva Health Forum</b> (Geneva, Switzerland)</li>
-  <li>Fairness in AI at the <b>Turing-Roche Knowledge Share Event</b> ([find the recording here](https://youtu.be/Tuz7IGqDAIs?si=gfOEuOz3XVbckbsw))</li>
+  <li>invited Panel Member on the ethical implications of AI use in global health at the <b>2024 Geneva Health Forum</b> (Geneva, Switzerland)</li>
+  <li>invited talk on Fairness in AI at the <b>Turing-Roche Knowledge Share Event</b> ([find the recording here](https://youtu.be/Tuz7IGqDAIs?si=gfOEuOz3XVbckbsw))</li>
   <li>presented work at <b>Genomics England Research Summit 2023</b> (London, UK)</li>
 </ul>
 <br>
