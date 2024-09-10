@@ -10,20 +10,40 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 <br>
 
-## Talks
+## Contribution and Talks
 ---
-Panel Discussion on the ethical implications of AI use in global health at the <b>Geneva Health Forum</b>
+presented work at <b>2024 Greek Stochastics</b> (Folegandros, Greece)
+<br>
+presented work at the <b>ELISE RobustML Workshop 2024</b> (Helsinki, Finland)
+<br>
+Panel Discussion on the ethical implications of AI use in global health at the <b>2024 Geneva Health Forum</b> (Geneva, Switzerland)
 <br>
 Fairness in AI at the <b>Turing-Roche Knowledge Share Event</b> ([find the recording here](https://youtu.be/Tuz7IGqDAIs?si=gfOEuOz3XVbckbsw))
-
+<br>
+presented work at <b>Genomics England Research Summit 2023</b> (London, UK)
 <br>
 
-## Conferences
+## Event Organization
 ---
-presented work at Genomics England Research Summit 2023
+Lead of 2024 Data Science for Health Equity Symposium
 <br>
-conference scholarship for FAccT'22
+Lead of Data Science for Health Equity Session in the <b>International Day of Women in Statistics and Data Science</>
+<br>
+Co-Lead of DSxHE Statistical Methods for Health Equity organising <b>Webinar</b> and <b>Researcher Meetups</b>
+<br>
+Organising team of the 2023 Statistical Methods for Health Equity Symposium at UCL (London, UK)
 
+<br>
+
+## Scholarships, Grants and Awards
+---
+2024 ELISE RobustML Workshop grant (Helsinki, Finland)
+<br>
+UKRI EPSRC DTP studentship
+<br>
+UCL ISAD Award
+<br>
+FAccT'22 scholarship (Seoul, Korea)
 <br>
 
 ## Teaching
