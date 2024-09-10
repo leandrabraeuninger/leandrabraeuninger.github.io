@@ -24,12 +24,12 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 ## Event Organization
 ---
 <ul>
-  <li>Lead of 2025 Data Science for Health Equity Symposium</li>
-  <li>Lead organiser of the Oxford University Kellogg College Bletchley Park Week 2024: The Women of Bletchley and Computing</li>
+  <li>Lead of <b>2025 Data Science for Health Equity Symposium</b></li>
+  <li>Lead organiser of the <b>Oxford University Kellogg College Bletchley Park Week</b> 2025: The Women of Bletchley and Computing</li>
   <li>Lead of Data Science for Health Equity Session in the <b>International Day of Women in Statistics and Data Science</b></li>
-  <li>Lead organiser of the Oxford University Kellogg College Bletchley Park Week 2024: Bletchley and Beyond: Ethics of Computing in Past, Present, and Future</li>
+  <li>Lead organiser of the <b>Oxford University Kellogg College Bletchley Park Week</b> 2024: Bletchley and Beyond: Ethics of Computing in Past, Present, and Future</li>
   <li>Co-Lead of DSxHE Statistical Methods for Health Equity organising <b>Webinar</b> and <b>Researcher Meetups</b></li>
-  <li>Organising team of the 2023 Statistical Methods for Health Equity Symposium at UCL (London, UK)</li>
+  <li>Organising team of the <b>2023 Statistical Methods for Health Equity Symposium</b> at UCL (London, UK)</li>
 </ul>
 <br>
 
