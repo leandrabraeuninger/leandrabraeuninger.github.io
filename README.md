@@ -12,27 +12,25 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 ## Contribution and Talks
 ---
-presented work at <b>2024 Greek Stochastics</b> (Folegandros, Greece)
-<br>
-presented work at the <b>ELISE RobustML Workshop 2024</b> (Helsinki, Finland)
-<br>
-Panel Discussion on the ethical implications of AI use in global health at the <b>2024 Geneva Health Forum</b> (Geneva, Switzerland)
-<br>
-Fairness in AI at the <b>Turing-Roche Knowledge Share Event</b> ([find the recording here](https://youtu.be/Tuz7IGqDAIs?si=gfOEuOz3XVbckbsw))
-<br>
-presented work at <b>Genomics England Research Summit 2023</b> (London, UK)
+<ul>
+  <li>presented work at <b>2024 Greek Stochastics</b> (Folegandros, Greece)</li>
+  <li>presented work at the <b>ELISE RobustML Workshop 2024</b> (Helsinki, Finland)</li>
+  <li>Panel Discussion on the ethical implications of AI use in global health at the <b>2024 Geneva Health Forum</b> (Geneva, Switzerland)</li>
+  <li>Fairness in AI at the <b>Turing-Roche Knowledge Share Event</b> ([find the recording here](https://youtu.be/Tuz7IGqDAIs?si=gfOEuOz3XVbckbsw))</li>
+  <li>presented work at <b>Genomics England Research Summit 2023</b> (London, UK)</li>
+</ul>
 <br>
 
 ## Event Organization
 ---
-Lead of 2025 Data Science for Health Equity Symposium
-<br>
-Lead of Data Science for Health Equity Session in the <b>International Day of Women in Statistics and Data Science</b>
-<br>
-Co-Lead of DSxHE Statistical Methods for Health Equity organising <b>Webinar</b> and <b>Researcher Meetups</b>
-<br>
-Organising team of the 2023 Statistical Methods for Health Equity Symposium at UCL (London, UK)
-
+<ul>
+  <li>Lead of 2025 Data Science for Health Equity Symposium</li>
+  <li></li>Lead organiser of the Oxford University Kellogg College Bletchley Park Week 2024: The Women of Bletchley and Computing
+  <li>Lead of Data Science for Health Equity Session in the <b>International Day of Women in Statistics and Data Science</b></li>
+  <li>Lead organiser of the Oxford University Kellogg College Bletchley Park Week 2024: Bletchley and Beyond: Ethics of Computing in Past, Present, and Future</li>
+  <li>Co-Lead of DSxHE Statistical Methods for Health Equity organising <b>Webinar</b> and <b>Researcher Meetups</b></li>
+  <li>Organising team of the 2023 Statistical Methods for Health Equity Symposium at UCL (London, UK)</li>
+</ul>
 <br>
 
 ## Scholarships, Grants and Awards
@@ -52,6 +50,8 @@ Lecture on LSTM and RCNN for the MSc Applied AI for Medical Imaging (UCL)
 <br>
 
 [Zertifikatskurs Digitale Inklusion](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/) (Universität Wien)
+<br>
+<b>2015-2021:</b> extensive teaching work at ETH Zurich, Biology courses spanning Fundamental Biology, Computational Biology, Anatomy, and more for undergraduate students reading for degrees such as Biology, Medicine, Pharmaceutical Sciences, Physics, Chemistry etc.
 
 I am open to more teaching and speaking duties at the moment. Do send me an email if you would like me to give lectures or talks.
 
