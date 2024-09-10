@@ -51,6 +51,7 @@ Lecture on LSTM and RCNN for the MSc Applied AI for Medical Imaging (UCL)
 
 [Zertifikatskurs Digitale Inklusion](https://www.postgraduatecenter.at/weiterbildungsprogramme/bildung-soziales/digital-inclusion/) (Universität Wien)
 <br>
+
 <b>2015-2021:</b> extensive teaching work at ETH Zurich, Biology courses spanning Fundamental Biology, Computational Biology, Anatomy, and more for undergraduate students reading for degrees such as Biology, Medicine, Pharmaceutical Sciences, Physics, Chemistry etc.
 
 I am open to more teaching and speaking duties at the moment. Do send me an email if you would like me to give lectures or talks.
