@@ -10,9 +10,20 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 
 <br>
 
+## Selected Publications
+---
+<ul>
+  <li>Lehmann, B., <b><u>Bräuninger</u></b>, L., Cho, Y. et al. Methodological opportunities in genomic data analysis to advance health equity. Nat Rev Genet (2025). https://doi.org/10.1038/s41576-025-00839-w</li>
+  <li>Tapabrata Chakraborti, Christopher R. S. Banerji, Ariane Marandon, Vicky Hellon, Robin Mitra, Brieuc Lehmann, <b><u>Leandra Bräuninger</u></b>, Sarah McGough, Cagatay Turkay, Alejandro F. Frangi, Ginestra Bianconi, Weizi Li, Owen Rackham, Deepak Parashar, Chris Harbron & Ben MacArthur 
+    Personalized uncertainty quantification in artificial intelligence. Nat Mach Intell 7, 522–530 (2025). https://doi.org/10.1038/s42256-025-01024-8</li>
+</ul>
+<br>
+
 ## Conference Contribution and Talks
 ---
 <ul>
+  <li>presented work at <b>2025 European Human Genetics Conference</b> (Milan, Italy)</li>
+  <li>presented work & organised a one-day workshop on Fairness Evaluations of VEPs at <b>2024 American Society of Human Genetics Annual Meeting</b> (Denver, USA)</li>
   <li>presented work at <b>2024 Greek Stochastics</b> (Folegandros, Greece)</li>
   <li>presented work at the <b>ELISE RobustML Workshop 2024</b> (Helsinki, Finland)</li>
   <li>invited Panel Member on the ethical implications of AI use in global health at the <b>2024 Geneva Health Forum</b> (Geneva, Switzerland)</li>
@@ -58,18 +69,14 @@ I am open to more teaching and speaking duties at the moment. Do send me an emai
 
 <br>
 
-## Projects
+## Outreach
 ---
-### Uniphy (Founder)
-Uniphy is a network of ambitious women+ who support each other's growth through cross-sectional knowledge sharing and boutique consulting.
-
-
 ### DSxHE (Co-Organiser, Theme Co-Lead)
 [Data Science for Health Equity (“DSxHE”)](https://www.datascienceforhealthequity.com/) is a global community that brings together experts and enthusiasts working at the intersection of data science and health inequities to ensure that the latest research and innovations improve health equity. Leandra is a co-organiser of the community working to define its Strategy & Impact as well as a co-lead of the Statistical Methods for Health Equity Theme.
 
 
-### TrueYouOmics (Scientific & Ethics Advisor)
-Leandra advises the HealthTech Startup TrueYouOmics on scientific and ethical matters.
+### PhD seminar @ UCL Stats 2023-24 (Co-Organiser)
+Monthly seminar series where PhD students of our Department showcase their work.
 
 <br>
 
