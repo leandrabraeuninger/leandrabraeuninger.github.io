@@ -16,7 +16,7 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
   <li>Lehmann, B., <b><u>Bräuninger</u></b>, L., Cho, Y. et al. <b><i>Methodological opportunities in genomic data analysis to advance health equity</i></b>. Nat Rev Genet (2025). <a href="https://doi.org/10.1038/s41576-025-00839-w">https://doi.org/10.1038/s41576-025-00839-w</a></li>
   <br>
   <li>Tapabrata Chakraborti, Christopher R. S. Banerji, Ariane Marandon, Vicky Hellon, Robin Mitra, Brieuc Lehmann, <b><u>Leandra Bräuninger</u></b>, Sarah McGough, Cagatay Turkay, Alejandro F. Frangi, Ginestra Bianconi, Weizi Li, Owen Rackham, Deepak Parashar, Chris Harbron & Ben MacArthur 
-    <b><i>Personalized uncertainty quantification in artificial intelligence</i></b>. Nat Mach Intell 7, 522–530 (2025). <a href="https://doi.org/10.1038/s41576-025-00839-w">https://doi.org/10.1038/s42256-025-01024-8</a></li>
+    <b><i>Personalized uncertainty quantification in artificial intelligence</i></b>. Nat Mach Intell 7, 522–530 (2025). <a href="https://doi.org/10.1038/s42256-025-01024-8">https://doi.org/10.1038/s42256-025-01024-8</a></li>
 </ul>
 <br>
 
