@@ -17,12 +17,17 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
   <br>
   <li>Tapabrata Chakraborti, Christopher R. S. Banerji, Ariane Marandon, Vicky Hellon, Robin Mitra, Brieuc Lehmann, <b><u>Leandra Bräuninger</u></b>, Sarah McGough, Cagatay Turkay, Alejandro F. Frangi, Ginestra Bianconi, Weizi Li, Owen Rackham, Deepak Parashar, Chris Harbron & Ben MacArthur 
     <b><i>Personalized uncertainty quantification in artificial intelligence</i></b>. Nat Mach Intell 7, 522–530 (2025). <a href="https://doi.org/10.1038/s42256-025-01024-8">https://doi.org/10.1038/s42256-025-01024-8</a></li>
+  <li>
+C. R. Walker, M. N. Anwar, <b><u>L. Bräuninger</u></b>, J.Richards, R. Ataide, N. D. Thang, N. X. Thang, S.
+Canavati, J. A. Flegg <b><i>Spatio-temporal agent-based modelling of malaria in Vietnam</i></b> Epidemics [under review]. <a href="https://doi.org/10.48550/arXiv.2505.16240">https://doi.org/10.48550/arXiv.2505.16240</a></li>
+</li>
 </ul>
 <br>
 
 ## Conference Contribution and Talks
 ---
 <ul>
+  <li>presented work at <b>2025 American Human Genetics Conference</b> (Boston, USA)</li>
   <li>presented work at <b>2025 European Human Genetics Conference</b> (Milan, Italy)</li>
   <li>presented work & organised a one-day workshop on Fairness Evaluations of VEPs at <b>2024 American Society of Human Genetics Annual Meeting</b> (Denver, USA)</li>
   <li>presented work at <b>2024 Greek Stochastics</b> (Folegandros, Greece)</li>
@@ -36,7 +41,6 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
 ## Event Organization
 ---
 <ul>
-  <li>Lead of <b>2025 Data Science for Health Equity Symposium</b></li>
   <li>Lead organiser of the <b>Oxford University Kellogg College Bletchley Park Week</b> 2025: The Women of Bletchley and Computing</li>
   <li>Lead of Data Science for Health Equity Session in the <b>International Day of Women in Statistics and Data Science</b></li>
   <li>Lead organiser of the <b>Oxford University Kellogg College Bletchley Park Week</b> 2024: Bletchley and Beyond: Ethics of Computing in Past, Present, and Future</li>
