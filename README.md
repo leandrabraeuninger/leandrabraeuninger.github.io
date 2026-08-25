@@ -53,7 +53,11 @@ Canavati, J. A. Flegg <b><i>Spatio-temporal agent-based modelling of malaria in 
 
 ## Scholarships, Grants and Awards
 ---
-2024 ELISE mobility grant (Helsinki, Finland)
+2026 MPI for Biochemistry research visit support (Martinsried, Germany)
+<br>
+2024 ELISE Robust ML mobility grant (Helsinki, Finland)
+<br>
+2023 Bayes @ CIRMS conference grant (CIRMS, France)
 <br>
 UKRI EPSRC DTP studentship
 <br>
