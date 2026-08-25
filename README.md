@@ -19,8 +19,7 @@ Leandra's academic degrees in Mathematical Modelling of Global Health (MSc Unive
     <b><i>Personalized uncertainty quantification in artificial intelligence</i></b>. Nat Mach Intell 7, 522–530 (2025). <a href="https://doi.org/10.1038/s42256-025-01024-8">https://doi.org/10.1038/s42256-025-01024-8</a></li>
   <li>
 C. R. Walker, M. N. Anwar, <b><u>L. Bräuninger</u></b>, J.Richards, R. Ataide, N. D. Thang, N. X. Thang, S.
-Canavati, J. A. Flegg <b><i>Spatio-temporal agent-based modelling of malaria in Vietnam</i></b> Epidemics [under review]. <a href="https://doi.org/10.48550/arXiv.2505.16240">https://doi.org/10.48550/arXiv.2505.16240</a></li>
-</li>
+Canavati, J. A. Flegg <b><i>Spatio-temporal agent-based modelling of malaria in Vietnam</i></b> Epidemics. <a href="https://doi.org/10.48550/arXiv.2505.16240">https://doi.org/10.48550/arXiv.2505.16240</a></li>
 </ul>
 <br>
 
