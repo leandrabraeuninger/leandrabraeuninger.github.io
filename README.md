@@ -2,7 +2,7 @@
 
 ## Bio
 ---
-Leandra Bräuninger (they/them; she/her) is a doctoral student researching "Machine Learning for Mitigating Discrimination in Medicine and Healthcare" at the University College London supervised by [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) and [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/). Research interests include interdisciplinary approaches to algorithmic fairness, genomic equity, conformal prediction, equitable polygenic risk scores and causal inference to name a few.
+Leandra Bräuninger (they/them; she/her) is a doctoral researcher working on identifying and mitigating inequity in biomedical AI/ML at the University College London supervised by [Dr Brieuc Lehmann](https://brieuclehmann.github.io/) and [Prof. Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/). Leandra develops statistical methods to evaluate and improve current biomedical ML models with an interdisciplinary approach drawing on algorithmic fairness, Genomics and Statistics.
 
 Previously, Leandra held research and/or teaching positions in the areas of statistical fairness in genomics, mathematical malaria prediction, and fundamental biology at the [Alan Turing Institute](https://www.turing.ac.uk/) (London, UK), the [Mathematical Biology Group at the University of Melbourne](https://mathematical-biology.science.unimelb.edu.au/) (Australia), and the [Centre for Active Learning](https://cal.biol.ethz.ch/) in the Department of Biology at ETH Zurich (Switzerland).
 
@@ -27,6 +27,8 @@ Canavati, J. A. Flegg <b><i>Spatio-temporal agent-based modelling of malaria in 
 ## Conference Contribution and Talks
 ---
 <ul>
+  <li>presented work at <b>2026 Genomics England Research Summit</b> (Lonson, UK)</li>
+  <li>presented work at <b>2026 Probabilistic Modelling ing Genomics Conference</b> (UC Berkeley, USA)</li>
   <li>presented work at <b>2025 American Human Genetics Conference</b> (Boston, USA)</li>
   <li>presented work at <b>2025 European Human Genetics Conference</b> (Milan, Italy)</li>
   <li>presented work & organised a one-day workshop on Fairness Evaluations of VEPs at <b>2024 American Society of Human Genetics Annual Meeting</b> (Denver, USA)</li>
